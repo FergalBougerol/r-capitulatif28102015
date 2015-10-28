@@ -1,0 +1,5 @@
+- téléchargement : visual studio/github/xamarin/(jetbrains.com/redshaper)
+-cours sur push github et réalisation de l'envoie de fichiers.
+-discution avec Antony : choix de xamarin.Forms qui sera plus simple pour réaliser notre projet.
+-discution  avec paul : application/machinelearning/documentation.
+-2 emails envoyés (xamarin et redshaper) pour obtenir les licences des logiciels en tant qu'étudiant Ynov.
